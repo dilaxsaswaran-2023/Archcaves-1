@@ -68,14 +68,14 @@ const Home = (props) => {
           <div className="home-image13">
             <img
               alt="image"
-              src="/SectionImages/Architect.png"
+              src="/SectionImages/nishok1.png"
               className="home-image15"
             />
           </div>
           <div className="home-image14">
             <img
               alt="image"
-              src="/SectionImages/Architect.png"
+              src="/SectionImages/nishok1.png"
               className="home-image15"
             />
           </div>
@@ -241,9 +241,9 @@ const Home = (props) => {
       </section>
       <section className="home-section19">
         <div className="home-cube1">
-          <div className="home-top1 side"></div>
-          <div className="home-front1 side"></div>
-          <div className="home-left2 side"></div>
+          {/* <div className="home-top1 side"></div> */}
+          {/* <div className="home-front1 side"></div> */}
+          {/* <div className="home-left2 side"></div> */}
         </div>
         <main className="home-banner">
           <div className="home-header15">

@@ -266,7 +266,7 @@
  
 @media(max-width: 767px) {
   .nav-link {
-    color: black;
+    color: rgb(255, 255, 255);
   }
   .accordion-element {
     gap: var(--dl-space-space-oneandhalfunits);
